@@ -31,6 +31,7 @@ void writeArrayCondition(int arr[], int size)
 
 int main()
 {
+    //martin
 	printf("Jakub");
 	//tohle je okupace
 	////vytvoreni instance tridy Animal
