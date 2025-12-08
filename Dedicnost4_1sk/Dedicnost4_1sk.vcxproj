@@ -123,13 +123,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="alephant.cpp" />
+    <ClCompile Include="elephant.cpp" />
     <ClCompile Include="Animal.cpp" />
     <ClCompile Include="Cat.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Dog.cpp" />
     <ClCompile Include="kovarik_Pijavice.cpp" />
-    <ClInclude Include="alephant.h" />
+    <ClInclude Include="elephant.h" />
     <ClInclude Include="monkeyKrautschneider.cpp" />
   </ItemGroup>
   <ItemGroup>

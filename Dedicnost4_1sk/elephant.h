@@ -1,7 +1,9 @@
 #pragma once
 #include "Animal.h"
-class alephant : public Animal
+class Elephant : public Animal
 {
+
+
 	private:
 		size_t mCapacityOfPeople;
 };
