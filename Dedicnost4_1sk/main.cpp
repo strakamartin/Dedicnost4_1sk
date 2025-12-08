@@ -32,6 +32,7 @@ void writeArrayCondition(int arr[], int size)
 int main()
 {
 	printf("Jakub");
+	//tohle je okupace
 	////vytvoreni instance tridy Animal
 	//Animal animal("Generic Animal", 5, 20);
 	//std::cout << "Jmeno: " << animal.getName() << ", Vek: " << animal.getAge() << '\n';
