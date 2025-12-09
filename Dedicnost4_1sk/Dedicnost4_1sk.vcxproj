@@ -123,14 +123,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="aksat_kontinent.cpp" />
+    <ClCompile Include="aksat_kontinentt.cpp" />
+    <ClCompile Include="cat_Kadlec.cpp" />
     <ClCompile Include="elephant.cpp" />
     <ClCompile Include="Animal.cpp" />
     <ClCompile Include="Cat.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Dog.cpp" />
     <ClCompile Include="kovarik_Pijavice.cpp" />
-    <ClInclude Include="aksat_kontinent.h" />
+    <ClInclude Include="aksat_kontinentt.h" />
+    <ClInclude Include="cat_Kadlec.h" />
     <ClInclude Include="elephant.h" />
     <ClInclude Include="monkeyKrautschneider.cpp" />
   </ItemGroup>
