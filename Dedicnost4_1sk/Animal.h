@@ -4,7 +4,7 @@
 
 class Animal {
 public:
-	// Konstruktor zakladní tøídy, ma stejny nazev jako trida
+	// Konstruktor zakladna tady, ma stejny nazev jako trida
     Animal(const std::string& name,
         int age,
         int weight);
@@ -16,7 +16,7 @@ public:
     const std::string& getName() const;
     int getAge() const;
 
-    // Virtuální metoda, aby odvozené tøídy mohly pøepsat chování
+    // Virtualni metoda, aby odvozena te?dy mohly prepsat chovani
     virtual void speak() const;
 
 protected:
