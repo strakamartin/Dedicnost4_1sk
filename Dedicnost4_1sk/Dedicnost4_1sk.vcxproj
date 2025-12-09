@@ -123,12 +123,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<< HEAD
+    <ClCompile Include="Dragon_Marek.cpp" />
+=======
+    <ClCompile Include="aksat_kontinentt.cpp" />
+    <ClCompile Include="cat_Kadlec.cpp" />
+>>>>>>> 6e9dcf23863a92fab3ab75fee2d9cf607bbf646b
     <ClCompile Include="elephant.cpp" />
     <ClCompile Include="Animal.cpp" />
     <ClCompile Include="Cat.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Dog.cpp" />
     <ClCompile Include="kovarik_Pijavice.cpp" />
+<<<<<<< HEAD
+    <ClInclude Include="Dragon_Marek.h" />
+=======
+    <ClInclude Include="aksat_kontinentt.h" />
+    <ClInclude Include="cat_Kadlec.h" />
+>>>>>>> 6e9dcf23863a92fab3ab75fee2d9cf607bbf646b
     <ClInclude Include="elephant.h" />
     <ClInclude Include="monkeyKrautschneider.cpp" />
   </ItemGroup>

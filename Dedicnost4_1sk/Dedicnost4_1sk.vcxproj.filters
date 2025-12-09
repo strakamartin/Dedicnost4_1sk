@@ -27,6 +27,22 @@
     <ClCompile Include="Cat.cpp">
       <Filter>Zdrojové soubory</Filter>
     </ClCompile>
+    <ClCompile Include="elephant.cpp">
+      <Filter>Zdrojové soubory</Filter>
+    </ClCompile>
+    <ClCompile Include="kovarik_Pijavice.cpp">
+      <Filter>Zdrojové soubory</Filter>
+    </ClCompile>
+    <ClCompile Include="kovarik_Pijavice.h">
+      <Filter>Hlavičkové soubory</Filter>
+    </ClCompile>
+<<<<<<< HEAD
+    <ClCompile Include="Dragon_Marek.cpp">
+=======
+    <ClCompile Include="cat_Kadlec.cpp">
+>>>>>>> 6e9dcf23863a92fab3ab75fee2d9cf607bbf646b
+      <Filter>Zdrojové soubory</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Animal.h">
@@ -36,6 +52,22 @@
       <Filter>Hlavičkové soubory</Filter>
     </ClInclude>
     <ClInclude Include="Cat.h">
+      <Filter>Hlavičkové soubory</Filter>
+    </ClInclude>
+    <ClInclude Include="elephant.h">
+      <Filter>Hlavičkové soubory</Filter>
+    </ClInclude>
+    <ClInclude Include="monkeyKrautschneider.cpp">
+      <Filter>Zdrojové soubory</Filter>
+    </ClInclude>
+    <ClInclude Include="monkeyKrautschneider.h">
+      <Filter>Hlavičkové soubory</Filter>
+    </ClInclude>
+<<<<<<< HEAD
+    <ClInclude Include="Dragon_Marek.h">
+=======
+    <ClInclude Include="cat_Kadlec.h">
+>>>>>>> 6e9dcf23863a92fab3ab75fee2d9cf607bbf646b
       <Filter>Hlavičkové soubory</Filter>
     </ClInclude>
   </ItemGroup>

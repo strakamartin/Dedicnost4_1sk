@@ -6,6 +6,7 @@
 #include "Dog.h"
 #include "Cat.h"
 #include "elephant.h"
+#include "ptakopysk_novak.h"
 
 //5 % 2 = 1  // 2 * 2 + 1
 //7 % 5 = 2  // 5 * 1 + 2
@@ -32,7 +33,9 @@ void writeArrayCondition(int arr[], int size)
 
 int main()
 {
-    //skuska git
+    //martin
+    //zkouska2
+    //skuska git 
 	//tohle je okupace jjjj
 	////vytvoreni instance tridy Animal
 	//Animal animal("Generic Animal", 5, 20);
@@ -43,6 +46,9 @@ int main()
 	dumbo.speak();
 	dumbo.mCountry = "India";
 	std::cout << "Elephant can carry " << dumbo.getCapacityOfPeople() << " people from " << dumbo.mCountry << '\n';
+	//hello world
+	std::ptakopysk_novak Kebabar("hello",2,3,4);
+
 
 	/*Cat whiskers("Whiskers", 3, 10, "White", 7);
 	whiskers.speak();
@@ -68,6 +74,7 @@ int main()
     ////Polymorfismus přes ukazatel na základní třídu
     //Animal* a = &rex;
     //a->speak();
+
 
     return 0;
 }
