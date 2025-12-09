@@ -32,6 +32,7 @@ void writeArrayCondition(int arr[], int size)
 
 int main()
 {
+    //martin
     //skuska git 
 	//tohle je okupace jjjj
 	////vytvoreni instance tridy Animal
