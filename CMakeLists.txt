@@ -16,4 +16,7 @@ add_executable(Dedicnost4_1sk
         Dedicnost4_1sk/kovarik_Pijavice.cpp
         Dedicnost4_1sk/kovarik_Pijavice.h
         Dedicnost4_1sk/main.cpp
-        Dedicnost4_1sk/elephant.cpp)
+        Dedicnost4_1sk/elephant.cpp
+        Dedicnost4_1sk/ptakopysk_novak.cpp
+        Dedicnost4_1sk/ptakopysk_novak.h
+)
