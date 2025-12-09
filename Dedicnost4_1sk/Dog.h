@@ -5,13 +5,13 @@
 
 class Dog : public Animal {
 public:
-	// Konstruktor s inicializací základní tøídy
+	// Konstruktor s inicializaci zakladni tridy
     Dog(const std::string& name, int age, const std::string& breed);
     ~Dog() override;
 
     const std::string& getBreed() const;
 
-    // Pøepíše chování z Animal
+    // P?ep?e chovani z Animal
     void speak() const override;
     void speakParent() const;
 

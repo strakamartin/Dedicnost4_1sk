@@ -3,7 +3,7 @@
 class Cat : public Animal
 {
 public:
-	//konstruktor s inicializací základní tøídy
+	//konstruktor s inicializaci zakladni tridy
 	Cat(const std::string& name,
 		int age,
 		int weight,
