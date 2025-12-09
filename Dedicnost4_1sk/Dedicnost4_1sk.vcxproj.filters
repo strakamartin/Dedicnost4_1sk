@@ -36,7 +36,7 @@
     <ClCompile Include="kovarik_Pijavice.h">
       <Filter>Hlavičkové soubory</Filter>
     </ClCompile>
-    <ClCompile Include="Nedbaldalibor.cpp">
+    <ClCompile Include="aksat_kontinent.cpp">
       <Filter>Zdrojové soubory</Filter>
     </ClCompile>
   </ItemGroup>
@@ -59,7 +59,7 @@
     <ClInclude Include="monkeyKrautschneider.h">
       <Filter>Hlavičkové soubory</Filter>
     </ClInclude>
-    <ClInclude Include="Nedbaldalibor.h">
+    <ClInclude Include="aksat_kontinent.h">
       <Filter>Hlavičkové soubory</Filter>
     </ClInclude>
   </ItemGroup>
