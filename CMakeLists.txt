@@ -13,7 +13,9 @@ add_executable(Dedicnost4_1sk
         Dedicnost4_1sk/Dog.cpp
         Dedicnost4_1sk/Dog.h
         Dedicnost4_1sk/main.cpp
-        Dedicnost4_1sk/kovařík_Pijavice.cpp
-        Dedicnost4_1sk/kovařík_Pijavice.h
+        Dedicnost4_1sk/kovarik_Pijavice.cpp
+        Dedicnost4_1sk/kovarik_Pijavice.h
         Dedicnost4_1sk/aksat_kontinent.h
-        Dedicnost4_1sk/aksat_kontinent.h)
+        Dedicnost4_1sk/aksat_kontinent.h
+        Dedicnost4_1sk/aksat_kontinentt.cpp
+        Dedicnost4_1sk/Nedbaldalibor.h)
