@@ -8,12 +8,16 @@
 
 namespace std {
     class ptakopysk_novak : public Animal {
-        public:
+    public:
         int silaJedu;
-        ptakopysk_novak(int sj) : Animal(mName, mAge, mWeight) {
-            silaJedu = sj;
+
+        // 1. Musíš si v závorce říct o VŠECHNY data (i ta pro rodiče)
+        ptakopysk_novak(string n, int a, int w, int sj)
+            : Animal(n, a, w) // 2. Tady posíláš ty data rodičovi ("tátovi")
+        {
+            silaJedu = sj; // 3. A tohle si necháš pro sebe
         }
     };
-} // std
+    };// std
 
 #endif //DEDICNOST4_1SK_SLN_PTAKOPYSK_NOVAK_H

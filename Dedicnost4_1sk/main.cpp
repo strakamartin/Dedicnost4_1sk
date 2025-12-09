@@ -47,7 +47,7 @@ int main()
 	dumbo.mCountry = "India";
 	std::cout << "Elephant can carry " << dumbo.getCapacityOfPeople() << " people from " << dumbo.mCountry << '\n';
 	//hello world
-
+	std::ptakopysk_novak Kebabar("hello",2,3,4);
 
 
 	/*Cat whiskers("Whiskers", 3, 10, "White", 7);
