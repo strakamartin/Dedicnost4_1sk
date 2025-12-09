@@ -27,6 +27,18 @@
     <ClCompile Include="Cat.cpp">
       <Filter>Zdrojové soubory</Filter>
     </ClCompile>
+    <ClCompile Include="elephant.cpp">
+      <Filter>Zdrojové soubory</Filter>
+    </ClCompile>
+    <ClCompile Include="kovarik_Pijavice.cpp">
+      <Filter>Zdrojové soubory</Filter>
+    </ClCompile>
+    <ClCompile Include="kovarik_Pijavice.h">
+      <Filter>Hlavičkové soubory</Filter>
+    </ClCompile>
+    <ClCompile Include="cat_Kadlec.cpp">
+      <Filter>Zdrojové soubory</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Animal.h">
@@ -36,6 +48,18 @@
       <Filter>Hlavičkové soubory</Filter>
     </ClInclude>
     <ClInclude Include="Cat.h">
+      <Filter>Hlavičkové soubory</Filter>
+    </ClInclude>
+    <ClInclude Include="elephant.h">
+      <Filter>Hlavičkové soubory</Filter>
+    </ClInclude>
+    <ClInclude Include="monkeyKrautschneider.cpp">
+      <Filter>Zdrojové soubory</Filter>
+    </ClInclude>
+    <ClInclude Include="monkeyKrautschneider.h">
+      <Filter>Hlavičkové soubory</Filter>
+    </ClInclude>
+    <ClInclude Include="cat_Kadlec.h">
       <Filter>Hlavičkové soubory</Filter>
     </ClInclude>
   </ItemGroup>
